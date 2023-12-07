@@ -5,6 +5,7 @@
 ### SAMSUNG DISPLAY 리뉴얼 웹페이지 팀 프로젝트
 
 ### 기획, 디자인, 메인페이지, 서브페이지 UI 을 구현
+----
 
 ### 완성작 보러가기🔍
 [https://rltjdms.github.io/last_child/](https://rltjdms.github.io/last_child/)
